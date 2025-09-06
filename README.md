@@ -9,9 +9,9 @@ paste worker.js and Deploy
 
 2. set in settings Variables and Secrets: TEXT
 
-GEMINI_API_KEY = your gemini api key here: (https://aistudio.google.com/app/apikey)
+GEMINI_API_KEY=your gemini api key here: (https://aistudio.google.com/app/apikey)
 
-TELEGRAM_BOT_TOKEN = your bot token
+TELEGRAM_BOT_TOKEN=your bot token
 Deploy.
 
 4. set webhook:
