@@ -15,4 +15,4 @@ TELEGRAM_BOT_TOKEN=your bot token
 Deploy.
 
 4. set webhook:
-https://api.telegram.org/botYOUR-BOT-TOKEN/setWebhook?url=YOUR-WORKER.workers.dev/
+https://api.telegram.org/botYOUR-BOT-TOKEN/setWebhook?url=https://YOUR-WORKER-ADSRESS.workers.dev/
