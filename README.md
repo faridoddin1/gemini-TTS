@@ -10,4 +10,4 @@ Deploy.
 https://api.telegram.org/botYOUR-BOT-TOKEN/setWebhook?url=YOUR-WORKER.workers.dev/
 
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/faridoddin1/gemini-TTS)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/faridoddin1/gemini-tts)
