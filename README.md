@@ -8,9 +8,10 @@ or do it manually:
 paste worker.js and Deploy
 
 2. set in settings Variables and Secrets: TEXT
+
 GEMINI_API_KEY = your gemini api key here: (https://aistudio.google.com/app/apikey)
 TELEGRAM_BOT_TOKEN = your bot token
 Deploy.
 
-3. set webhook:
+4. set webhook:
 https://api.telegram.org/botYOUR-BOT-TOKEN/setWebhook?url=YOUR-WORKER.workers.dev/
